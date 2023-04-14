@@ -1,0 +1,9 @@
+<svg id="Regular_1.5px_hide" data-name="Regular 1.5px/hide" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Regular_1.5px_hide_background" data-name="Regular 1.5px/hide background" width="24" height="24" fill="#fff"/>
+  <g id="Group" transform="translate(2.25 2.25)">
+    <path id="Subtract" d="M0,2.584A3,3,0,0,0,5.584,4.109L4.449,2.974A1.5,1.5,0,1,1,2.61,1.135L1.475,0A3,3,0,0,0,0,2.584Z" transform="translate(6.75 7.166)" fill="#8b8b97"/>
+    <path id="Subtract-2" data-name="Subtract" d="M.317,5.867a2.186,2.186,0,0,0,0,2.267C1.5,10.115,4.5,14,9.715,14a9.828,9.828,0,0,0,6.017-2.042l-1.073-1.073A8.342,8.342,0,0,1,9.715,12.5C5.327,12.5,2.722,9.228,1.6,7.362a.687.687,0,0,1,0-.724A11.151,11.151,0,0,1,6.1,2.324L4.983,1.209A12.936,12.936,0,0,0,.317,5.867Z" transform="translate(0.035 2.75)" fill="#8b8b97"/>
+    <path id="Subtract-3" data-name="Subtract" d="M17.827,7.362a.687.687,0,0,0,0-.724C16.707,4.772,14.1,1.5,9.715,1.5a8.321,8.321,0,0,0-2.064.255l-1.2-1.2A9.74,9.74,0,0,1,9.715,0c5.215,0,8.21,3.885,9.4,5.867a2.186,2.186,0,0,1,0,2.267,14.186,14.186,0,0,1-2.24,2.844l-1.06-1.06A12.621,12.621,0,0,0,17.827,7.362Z" transform="translate(0.035 2.75)" fill="#8b8b97"/>
+    <path id="Vector_606_Stroke_" data-name="Vector 606 (Stroke)" d="M1.28.22l18,18A.75.75,0,0,1,18.22,19.28l-18-18A.75.75,0,0,1,1.28.22Z" fill="#8b8b97"/>
+  </g>
+</svg>

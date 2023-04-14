@@ -1,0 +1,42 @@
+// Start Media From 1200px To 0px
+@include media("<=desktop") {
+  //HOME
+  .navbar-nav .nav-link {
+    margin-right: 25px;
+  }
+  .hero-text h1{
+    font-size: 30px;
+  }
+  
+} //End Media
+// Start Media From 992px To 1199px
+@include media(">=tablet", "<desktop") {
+} //End Media
+// Start Media From 991px To 0px
+@include media("<=tablet") {
+} //End Media
+
+// Start Media From 767px To 0px
+@include media("<=phablet") {
+  .about-thumb{
+    
+      text-align: center;
+    
+    
+  }
+  .item-text h1{
+    font-size: 30px;}
+    .counter{
+      margin-bottom: 30px;
+    }
+
+  //End Media
+}
+
+//Start Media From 0px To 550px
+@include media("<=550px") {
+}
+
+//End Media
+@include media("<=480px") {
+} //End Media

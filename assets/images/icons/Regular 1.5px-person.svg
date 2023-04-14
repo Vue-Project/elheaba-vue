@@ -1,0 +1,7 @@
+<svg id="Regular_1.5px_person" data-name="Regular 1.5px/person" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Regular_1.5px_person_background" data-name="Regular 1.5px/person background" width="24" height="24" fill="none"/>
+  <g id="Group" transform="translate(3.115 2)">
+    <path id="Vector_631_Stroke_" data-name="Vector 631 (Stroke)" d="M1.438,5.75v1a.735.735,0,0,1-.719.75A.735.735,0,0,1,0,6.75v-1A5.634,5.634,0,0,1,5.51,0h5.75a5.634,5.634,0,0,1,5.51,5.75v1a.719.719,0,1,1-1.437,0v-1A4.164,4.164,0,0,0,11.26,1.5H5.51A4.164,4.164,0,0,0,1.438,5.75Z" transform="translate(0 12.25)" fill="#8b8b97"/>
+    <path id="Combined_Shape" data-name="Combined Shape" d="M5,10a5,5,0,1,1,5-5A5.006,5.006,0,0,1,5,10ZM5,1.5A3.5,3.5,0,1,0,8.5,5,3.5,3.5,0,0,0,5,1.5Z" transform="translate(3.885)" fill="#8b8b97"/>
+  </g>
+</svg>

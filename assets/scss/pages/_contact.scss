@@ -1,0 +1,41 @@
+.contact-content {
+  padding: 120px 80px;
+  background: #ffffff;
+  position: relative;
+  top: -60px;
+}
+.contact-content {
+  background: #fff;
+  box-shadow: 0px 4px 20px rgba(0, 26, 244, 0.04);
+  padding: 60px 70px;
+}
+#contact-form {
+  background: #fff;
+  box-shadow: 0px 4px 20px rgba(0, 26, 244, 0.04);
+  padding: 50px;
+}
+
+.conact-info {
+  padding-left: 30px;
+  
+}
+.contact-item {
+    margin-bottom: 50px;
+    h5{
+        font-size: 18px;
+    }
+    p{
+        color: $blue-light;
+        
+    }
+    a{
+        color: $blue;
+        font-size: 16px;
+        i{
+            margin-right: 15px;
+        }
+    }
+  }
+
+
+

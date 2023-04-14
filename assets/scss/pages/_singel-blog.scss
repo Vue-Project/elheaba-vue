@@ -1,0 +1,14 @@
+.single-post {
+  max-width: 840px;
+  margin: auto;
+}
+.post-info {
+  a {
+    font-size: 18px;
+    color: $gray-darker;
+  }
+  h1 {
+    font-size: 32px;
+    padding: 20px 0;
+  }
+}

@@ -1,0 +1,89 @@
+// colors
+.bg-liner {
+  color: #ffffff;
+
+  background: linear-gradient(293deg, #31fea0, #0c00ff 40%);
+
+  background: -webkit-linear-gradient
+    (to left, #31fea0, #001af4 20%, #001af4 30%);
+
+  background: -o-linear-gradient (to left, #31fea0, #001af4 25%, #001af4 30%);
+
+  background: -moz-linear-gradient (to left, #31fea0, #001af4 25%, #001af4 30%);
+
+  background: linear-gradient (to left, #31fea0, #001af4 25%, #001af4 30%);
+}
+.bg-blue {
+  background-color: $main-color;
+}
+
+// directione
+.right {
+  float: right;
+}
+.center {
+  align-items: center;
+}
+
+// Distances
+.mb-60 {
+  margin-bottom: 60px;
+}
+.mb-80 {
+  margin-bottom: 80px;
+}
+.mb-100 {
+  margin-bottom: 100px;
+}
+
+//nav-option
+.navbar-dark {
+  background-color: $main-color;
+
+  .nav-link {
+    color: $white-color !important;
+  }
+}
+
+.navbar-light {
+  background-color: $white-color;
+  .navbar {
+    background-color: red($color: #000000);
+    box-shadow: 0px 4px 20px rgba(0, 26, 244, 0.04) !important;
+  }
+
+  .nav-item {
+    .nav-link {
+      color: $main-color;
+    }
+  }
+  .social-links {
+    li {
+      a {
+        i {
+          color: $main-color !important;
+        }
+      }
+    }
+  }
+
+  
+}
+
+//header
+.header-liner {
+  .nav-link {
+    color: $white-color !important;
+  }
+
+  background: linear-gradient(293deg, #31fea0, #0c00ff 40%);
+
+  background: -webkit-linear-gradient
+    (to left, #31fea0, #001af4 20%, #001af4 30%);
+
+  background: -o-linear-gradient (to left, #31fea0, #001af4 25%, #001af4 30%);
+
+  background: -moz-linear-gradient (to left, #31fea0, #001af4 25%, #001af4 30%);
+
+  background: linear-gradient (to left, #31fea0, #001af4 25%, #001af4 30%);
+}

@@ -1,0 +1,115 @@
+/* _____ VARIABLES _____ */
+html,
+body {
+  overflow-x: hidden;
+}
+html {
+  font-size: 10px;
+}
+
+body {
+  line-height: 18px;
+  position: relative;
+  overflow: hidden;
+  overflow-y: auto !important;
+  box-sizing: border-box;
+  direction: ltr;
+}
+
+ul,
+li,
+ol {
+  font-size: 16px;
+  line-height: 36px;
+  margin: 0;
+  padding: 0;
+}
+
+pre {
+  padding: 10px;
+  background: #fff;
+}
+
+p {
+  font-size: 18px;
+  line-height: 30px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  line-height: 1.3;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+h1 {
+  font-size: 3.7rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+h3 {
+  font-size: 2.4rem;
+}
+
+.h4 {
+  font-size: 1.8rem;
+}
+
+.h5 {
+  font-size: 1.4rem;
+}
+
+.h6 {
+  font-size: 1.2rem;
+}
+
+pre {
+  font-family: consolas, monospace;
+}
+
+a {
+  transition: all 200ms ease-in-out;
+  color: #00a6ed;
+}
+a:visited {
+  text-decoration: none;
+
+  color: none;
+  outline: none;
+}
+a:focus,
+a:active,
+a:hover {
+  text-decoration: none;
+  color: #000;
+  color: initial;
+  outline: none;}
+span{
+  font-size: 16px;
+}
+
+.text-14 {
+  font-size: 14px;
+}
+
+.text-16 {
+  font-size: 16px;
+}
+
+.text-18 {
+  font-size: 18px;
+}
+
+.text-20 {
+  font-size: 20px;
+}
+
+.text-24 {
+  font-size: 24px;
+}

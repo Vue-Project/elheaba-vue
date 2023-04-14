@@ -1,0 +1,33 @@
+.section-title {
+  //   max-width: 600px;
+  margin-bottom: 60px;
+  h1 {
+  }
+}
+.service-item {
+  a {
+    font-size: 16px;
+    color: $blue;
+    i {
+      margin-left: 15px;
+    }
+  }
+}
+.procces-number {
+  font-size: 120px;
+  font-weight: bold;
+  color: $gray-lighter;
+  position: relative;
+}
+.divider {
+  img {
+    width: 100%;
+  }
+}
+.procces-box {
+  padding: 120px 0;
+}
+.procces-steps {
+  padding: 0 50px;
+  padding-bottom: 40px;
+}

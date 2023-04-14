@@ -1,0 +1,27 @@
+// .post-info{
+// 	list-style: none;
+// 	padding: 0;
+// 	li{
+		
+// 		font-size: 16px;		
+// 		display: inline-block;
+// 		color: #99A1BF;
+// 		&::before{
+// 			display: none !important;
+// 		}
+// 	}
+// }
+.post-item {
+    background: #fff;
+    border: 1px solid #eef2f4;
+    a{
+      color: $black-color;
+    }
+  
+    h3 {
+        font-size: 24px;
+        font-weight: bold;
+      padding: 20px;
+      line-height: 36px;
+    }
+  }

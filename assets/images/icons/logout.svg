@@ -1,0 +1,7 @@
+<svg id="Regular_1.5px_logout" data-name="Regular 1.5px/logout" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Regular_1.5px_logout_background" data-name="Regular 1.5px/logout background" width="24" height="24" fill="none"/>
+  <g id="Group" transform="translate(3.25 2.25)">
+    <path id="Vector_587_Stroke_" data-name="Vector 587 (Stroke)" d="M2.75,0h6A2.75,2.75,0,0,1,11.5,2.75v1a.75.75,0,0,1-1.5,0v-1A1.25,1.25,0,0,0,8.75,1.5h-6A1.25,1.25,0,0,0,1.5,2.75v14A1.25,1.25,0,0,0,2.75,18h6A1.25,1.25,0,0,0,10,16.75v-1a.75.75,0,0,1,1.5,0v1A2.75,2.75,0,0,1,8.75,19.5h-6A2.75,2.75,0,0,1,0,16.75v-14A2.75,2.75,0,0,1,2.75,0Z" fill="#8b8b97"/>
+    <path id="Union" d="M8.22.22a.75.75,0,0,0,0,1.061l2.22,2.22H.75A.75.75,0,0,0,.75,5h9.689L8.22,7.22A.75.75,0,0,0,9.28,8.28l2.793-2.793a1.75,1.75,0,0,0,0-2.475L9.28.22A.75.75,0,0,0,8.22.22Z" transform="translate(5 5.5)" fill="#8b8b97"/>
+  </g>
+</svg>
